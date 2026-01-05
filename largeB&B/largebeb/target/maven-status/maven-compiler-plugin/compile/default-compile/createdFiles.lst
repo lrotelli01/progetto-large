@@ -1,0 +1,12 @@
+com\largebeb\model\Manager.class
+com\largebeb\model\RoomStatus.class
+com\largebeb\model\OptionPreference.class
+com\largebeb\model\RatingStats.class
+com\largebeb\model\RegisteredUser.class
+com\largebeb\model\Room.class
+largebeb\model\Message.class
+com\largebeb\model\Customer.class
+com\largebeb\model\Review.class
+com\largebeb\model\MethodPayment.class
+com\largebeb\model\BedType.class
+com\largebeb\model\Property.class
